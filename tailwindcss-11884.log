@@ -1,0 +1,113 @@
+2026-06-12T04:00:04.441525Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-06-12T04:00:04.442348Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "**/*", negated: false }
+2026-06-12T04:00:04.442685Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/pages/**/*.{js,ts,jsx,tsx,mdx}", negated: false }
+2026-06-12T04:00:04.442794Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/components/**/*.{js,ts,jsx,tsx,mdx}", negated: false }
+2026-06-12T04:00:04.442805Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/app/**/*.{js,ts,jsx,tsx,mdx}", negated: false }
+2026-06-12T04:00:04.443066Z ERROR tailwindcss_oxide::scanner::sources: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.443368Z ERROR tailwindcss_oxide::scanner::sources: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.443442Z ERROR tailwindcss_oxide::scanner::sources: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.443511Z ERROR tailwindcss_oxide::scanner::sources: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.443581Z ERROR tailwindcss_oxide::scanner::sources: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.444891Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-06-12T04:00:04.444900Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow" }
+2026-06-12T04:00:04.445202Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/pages/**/*.js" }
+2026-06-12T04:00:04.445207Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/pages/**/*.ts" }
+2026-06-12T04:00:04.445211Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/pages/**/*.jsx" }
+2026-06-12T04:00:04.445214Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/pages/**/*.tsx" }
+2026-06-12T04:00:04.445217Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow", pattern: "./src/pages/**/*.mdx" }
+2026-06-12T04:00:04.445220Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components", pattern: "**/*.js" }
+2026-06-12T04:00:04.445224Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components", pattern: "**/*.ts" }
+2026-06-12T04:00:04.445227Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components", pattern: "**/*.jsx" }
+2026-06-12T04:00:04.445230Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components", pattern: "**/*.tsx" }
+2026-06-12T04:00:04.445234Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components", pattern: "**/*.mdx" }
+2026-06-12T04:00:04.445237Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app", pattern: "**/*.js" }
+2026-06-12T04:00:04.445269Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app", pattern: "**/*.ts" }
+2026-06-12T04:00:04.445275Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app", pattern: "**/*.jsx" }
+2026-06-12T04:00:04.445279Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app", pattern: "**/*.tsx" }
+2026-06-12T04:00:04.445282Z  INFO tailwindcss_oxide::scanner: Source: Pattern { base: "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app", pattern: "**/*.mdx" }
+2026-06-12T04:00:04.446667Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.446688Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.467608Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.468435Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\AGENTS.md"
+2026-06-12T04:00:04.468442Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\calendar\\CalendarView.tsx"
+2026-06-12T04:00:04.468473Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\hooks\\useTasks.ts"
+2026-06-12T04:00:04.468532Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\CLAUDE.md"
+2026-06-12T04:00:04.468550Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\README.md"
+2026-06-12T04:00:04.468554Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\calendar\\DayCell.tsx"
+2026-06-12T04:00:04.468589Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\prisma\\schema.prisma"
+2026-06-12T04:00:04.468594Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\lib\\auth.config.ts"
+2026-06-12T04:00:04.468681Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\actions\\taskActions.ts"
+2026-06-12T04:00:04.468704Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\dashboard\\ProductivityChart.tsx"
+2026-06-12T04:00:04.468713Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\prisma.config.ts"
+2026-06-12T04:00:04.468713Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\lib\\auth.ts"
+2026-06-12T04:00:04.468711Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\next-env.d.ts"
+2026-06-12T04:00:04.468779Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\(auth)\\login\\page.tsx"
+2026-06-12T04:00:04.468732Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\settings\\ProfileForm.tsx"
+2026-06-12T04:00:04.468798Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\(dashboard)\\tasks\\page.tsx"
+2026-06-12T04:00:04.468820Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\lib\\prisma.ts"
+2026-06-12T04:00:04.468820Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\public\\file.svg"
+2026-06-12T04:00:04.468808Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\dashboard\\StatsCards.tsx"
+2026-06-12T04:00:04.468903Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\lib\\supabase.ts"
+2026-06-12T04:00:04.468856Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\next.config.ts"
+2026-06-12T04:00:04.468881Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\settings\\ThemeToggle.tsx"
+2026-06-12T04:00:04.468903Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\public\\globe.svg"
+2026-06-12T04:00:04.468863Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\(dashboard)\\calendar\\page.tsx"
+2026-06-12T04:00:04.468905Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\api\\auth\\[...nextauth]\\route.ts"
+2026-06-12T04:00:04.468990Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\lib\\utils.ts"
+2026-06-12T04:00:04.468875Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\package.json"
+2026-06-12T04:00:04.468998Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\postcss.config.mjs"
+2026-06-12T04:00:04.468960Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\providers\\ThemeProvider.tsx"
+2026-06-12T04:00:04.468998Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\types\\index.ts"
+2026-06-12T04:00:04.469055Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\public\\next.svg"
+2026-06-12T04:00:04.469063Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\layout.tsx"
+2026-06-12T04:00:04.469063Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\(dashboard)\\dashboard\\page.tsx"
+2026-06-12T04:00:04.469074Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\middleware.ts"
+2026-06-12T04:00:04.469009Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\tasks\\TaskCard.tsx"
+2026-06-12T04:00:04.468998Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\dashboard\\UpcomingTasks.tsx"
+2026-06-12T04:00:04.469109Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\layout\\Navbar.tsx"
+2026-06-12T04:00:04.469116Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\services\\googleCalendarService.ts"
+2026-06-12T04:00:04.469123Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\public\\vercel.svg"
+2026-06-12T04:00:04.469116Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\page.tsx"
+2026-06-12T04:00:04.469142Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\(dashboard)\\settings\\page.tsx"
+2026-06-12T04:00:04.469142Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\(dashboard)\\layout.tsx"
+2026-06-12T04:00:04.469128Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\tasks\\TaskDialog.tsx"
+2026-06-12T04:00:04.469164Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\calendar\\CalendarHeader.tsx"
+2026-06-12T04:00:04.469186Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\tsconfig.json"
+2026-06-12T04:00:04.469194Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\layout\\Sidebar.tsx"
+2026-06-12T04:00:04.469123Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\types\\next-auth.d.ts"
+2026-06-12T04:00:04.469214Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\tailwind.config.ts"
+2026-06-12T04:00:04.469187Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\public\\window.svg"
+2026-06-12T04:00:04.469209Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\auth\\LoginCard.tsx"
+2026-06-12T04:00:04.469217Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\tasks\\TaskFilters.tsx"
+2026-06-12T04:00:04.469262Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\tasks\\TaskList.tsx"
+2026-06-12T04:00:04.469233Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\tasks\\TaskForm.tsx"
+2026-06-12T04:00:04.469217Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\components\\calendar\\CalendarPageClient.tsx"
+2026-06-12T04:00:04.469203Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\services\\taskService.ts"
+2026-06-12T04:00:04.469364Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.469380Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.469386Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.469391Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.470033Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.470052Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.470061Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.470064Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-06-12T04:00:04.470141Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "C:\\Users\\yafet\\.gemini\\antigravity-ide\\scratch\\taskflow\\src\\app\\globals.css"
+2026-06-12T04:00:04.470150Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.470154Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.470157Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.470233Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.470247Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.470410Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.470902Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.470917Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.470959Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.471106Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.471353Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.471363Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: enter
+2026-06-12T04:00:04.471399Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: exit
+2026-06-12T04:00:04.476399Z ERROR get_globs: tailwindcss_oxide::glob: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.476460Z ERROR get_globs: tailwindcss_oxide::glob: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.476484Z ERROR get_globs: tailwindcss_oxide::glob: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.476506Z ERROR get_globs: tailwindcss_oxide::glob: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.476578Z ERROR get_globs: tailwindcss_oxide::glob: Failed to resolve glob: Os { code: 2, kind: NotFound, message: "El sistema no puede encontrar el archivo especificado." }
+2026-06-12T04:00:04.477151Z  INFO get_globs: tailwindcss_oxide::scanner: exit
